@@ -1,6 +1,5 @@
 # **Predicting H1N1 and Seasonal Flu Vaccination**
-#### **Collaborators**: 
-[**Lavanya Acharya**](https://github.com/LAcharya) | [**Katrin Ayrapetov**](https://github.com/Kaayrapetov) | [**Sean Li**](https://github.com/syxli)  
+[**Katrin Ayrapetov**](https://github.com/Kaayrapetov) 
 
 ### Contents:
 * Introduction
