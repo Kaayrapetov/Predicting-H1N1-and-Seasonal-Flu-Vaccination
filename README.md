@@ -74,7 +74,7 @@ We first performed exploratory data analysis and null imputation on our dataset 
 2. to use the best model to find the most predictive features, and confirm the predictive nature of these features by training our best model on this subset and comparing metrics with the initial model trained on the full set of feature. 
 3. to provide a recommendation for areas of focus for the CDC to shorten, or rearrange the survey so that a cleaner dataset can be obtained with minimal missing values. 
 
-### **Results**
+### **Results:**
 
 #### Exploratory Data Analysis and Cleaning
 
